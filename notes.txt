@@ -15,3 +15,7 @@ if (!$conn) {
 // echo "✅ Connected successfully!";
 
 ?>
+
+user name = oldmbpos_usrS
+
+psw = zzZywznDaxB8YpET
